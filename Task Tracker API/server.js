@@ -42,8 +42,6 @@ app.get("/tasks/:id", (req, res) => {
   } else {
     res.status(404).json({
       message: `The task with the id ${id} does not exist.`,
-      filteredTask,
-      id,
     });
   }
 });
@@ -96,10 +94,11 @@ app.put("/tasks/:id", (req, res) => {
     tasks = unsortedTasks.sort((a, b) =>
       a.id > b.id ? 1 : a.id < b.id ? -1 : 0
     );
-    res.json(tasks);
+    res.json(filteredTask);
   }
 });
 
+// This deletes a task
 app.delete("/tasks/:id", (req, res) => {
   const id = req.params.id;
   const filteredTask = tasks.filter((task) => task.id == id);

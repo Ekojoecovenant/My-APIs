@@ -1,0 +1,1214 @@
+[
+  {
+    "id": 1,
+    "category": "Programming",
+    "setup": "Why do programmers prefer dark mode?",
+    "punchline": "Because light attracts bugs!"
+  },
+  {
+    "id": 2,
+    "category": "Programming",
+    "setup": "Why did the developer go broke?",
+    "punchline": "Because he used up all his cache!"
+  },
+  {
+    "id": 3,
+    "category": "Programming",
+    "setup": "Why do Java developers wear glasses?",
+    "punchline": "Because they can’t C#!"
+  },
+  {
+    "id": 4,
+    "category": "Programming",
+    "setup": "Why was the JavaScript developer sad?",
+    "punchline": "Because he didn’t know how to 'null' his feelings."
+  },
+  {
+    "id": 5,
+    "category": "Programming",
+    "setup": "How do you comfort a JavaScript bug?",
+    "punchline": "You console it."
+  },
+  {
+    "id": 6,
+    "category": "Programming",
+    "setup": "Why do programmers hate nature?",
+    "punchline": "It has too many bugs."
+  },
+  {
+    "id": 7,
+    "category": "Programming",
+    "setup": "What’s a programmer’s favorite hangout spot?",
+    "punchline": "The Foo Bar."
+  },
+  {
+    "id": 8,
+    "category": "Programming",
+    "setup": "Why did the programmer quit his job?",
+    "punchline": "Because he didn’t get arrays."
+  },
+  {
+    "id": 9,
+    "category": "Programming",
+    "setup": "What do you call a programmer from Finland?",
+    "punchline": "Nerdic."
+  },
+  {
+    "id": 10,
+    "category": "Programming",
+    "setup": "Why did the programmer get stuck in the shower?",
+    "punchline": "The instructions said: 'Lather, rinse, repeat.'"
+  },
+  {
+    "id": 11,
+    "category": "Programming",
+    "setup": "How many programmers does it take to change a light bulb?",
+    "punchline": "None. It’s a hardware problem."
+  },
+  {
+    "id": 12,
+    "category": "Programming",
+    "setup": "Why do Python developers need snakes?",
+    "punchline": "To handle their exceptions!"
+  },
+  {
+    "id": 13,
+    "category": "Programming",
+    "setup": "What’s the object-oriented way to become wealthy?",
+    "punchline": "Inheritance."
+  },
+  {
+    "id": 14,
+    "category": "Programming",
+    "setup": "Why did the React component break up with its girlfriend?",
+    "punchline": "Because it had too many props."
+  },
+  {
+    "id": 15,
+    "category": "Programming",
+    "setup": "What’s a programmer’s favorite drink?",
+    "punchline": "Java."
+  },
+  {
+    "id": 16,
+    "category": "Programming",
+    "setup": "Why don’t programmers like to go outside?",
+    "punchline": "The sunlight causes syntax errors."
+  },
+  {
+    "id": 17,
+    "category": "Programming",
+    "setup": "What did the SQL query say to the table?",
+    "punchline": "Please SELECT me, I’m feeling JOINly."
+  },
+  {
+    "id": 18,
+    "category": "Programming",
+    "setup": "Why did the developer get kicked out of school?",
+    "punchline": "Because he kept returning false."
+  },
+  {
+    "id": 19,
+    "category": "Programming",
+    "setup": "What’s a programmer’s favorite place to party?",
+    "punchline": "The Stack Overflow."
+  },
+  {
+    "id": 20,
+    "category": "Programming",
+    "setup": "Why did the programmer get a pet snake?",
+    "punchline": "To python his code."
+  },
+  {
+    "id": 21,
+    "category": "Dark Humor",
+    "setup": "Why don’t cannibals eat clowns?",
+    "punchline": "Because they taste funny."
+  },
+  {
+    "id": 22,
+    "category": "Dark Humor",
+    "setup": "What’s the hardest part about eating vegetables?",
+    "punchline": "Getting them out of the wheelchair."
+  },
+  {
+    "id": 23,
+    "category": "Dark Humor",
+    "setup": "Why did the orphan bring a ladder to the bar?",
+    "punchline": "Because they heard the drinks were on the house."
+  },
+  {
+    "id": 24,
+    "category": "Dark Humor",
+    "setup": "What’s the difference between me and cancer?",
+    "punchline": "My dad didn’t beat cancer."
+  },
+  {
+    "id": 25,
+    "category": "Dark Humor",
+    "setup": "Why did the blind man fall into the well?",
+    "punchline": "Because he couldn’t see that well."
+  },
+  {
+    "id": 26,
+    "category": "Dark Humor",
+    "setup": "What’s red and bad for your teeth?",
+    "punchline": "A brick."
+  },
+  {
+    "id": 27,
+    "category": "Dark Humor",
+    "setup": "Why don’t skeletons fight each other?",
+    "punchline": "They don’t have the guts."
+  },
+  {
+    "id": 28,
+    "category": "Dark Humor",
+    "setup": "What’s the difference between a joke and a dead baby?",
+    "punchline": "People take jokes well."
+  },
+  {
+    "id": 29,
+    "category": "Dark Humor",
+    "setup": "Why did the man miss his funeral?",
+    "punchline": "Because he wasn’t feeling it."
+  },
+  {
+    "id": 30,
+    "category": "Dark Humor",
+    "setup": "What’s the leading cause of divorce in long marriages?",
+    "punchline": "A fatal car accident."
+  },
+  {
+    "id": 31,
+    "category": "Dark Humor",
+    "setup": "Why did the scarecrow win an award?",
+    "punchline": "Because he was outstanding in his field… until the crows came back."
+  },
+  {
+    "id": 32,
+    "category": "Dark Humor",
+    "setup": "What’s the difference between a pizza and a baby?",
+    "punchline": "I don’t cry when I put a pizza in the oven."
+  },
+  {
+    "id": 33,
+    "category": "Dark Humor",
+    "setup": "Why don’t orphans play baseball?",
+    "punchline": "They don’t know where home is."
+  },
+  {
+    "id": 34,
+    "category": "Dark Humor",
+    "setup": "What’s the best thing about Switzerland?",
+    "punchline": "I don’t know, but the flag is a big plus."
+  },
+  {
+    "id": 35,
+    "category": "Dark Humor",
+    "setup": "Why did the man bring a ladder to the bar?",
+    "punchline": "Because he heard the drinks were *on the house*."
+  },
+  {
+    "id": 36,
+    "category": "Dark Humor",
+    "setup": "What’s the difference between me and a calendar?",
+    "punchline": "A calendar has dates."
+  },
+  {
+    "id": 37,
+    "category": "Dark Humor",
+    "setup": "Why did the boy drop his ice cream?",
+    "punchline": "Because he got hit by a bus."
+  },
+  {
+    "id": 38,
+    "category": "Dark Humor",
+    "setup": "What’s the hardest part about eating bald people?",
+    "punchline": "Getting the wheelchair out of the bathtub."
+  },
+  {
+    "id": 39,
+    "category": "Dark Humor",
+    "setup": "Why don’t blind people skydive?",
+    "punchline": "Because it scares the hell out of the dog."
+  },
+  {
+    "id": 40,
+    "category": "Dark Humor",
+    "setup": "What’s the difference between a joke and a coffin?",
+    "punchline": "One’s a dead giveaway, the other’s a *giveaway for the dead*."
+  },
+  {
+    "id": 41,
+    "category": "Dad Jokes",
+    "setup": "Did you hear about the claustrophobic astronaut?",
+    "punchline": "He just needed a little space."
+  },
+  {
+    "id": 42,
+    "category": "Dad Jokes",
+    "setup": "Why don’t eggs tell jokes?",
+    "punchline": "They’d crack each other up."
+  },
+  {
+    "id": 43,
+    "category": "Dad Jokes",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An *impasta*."
+  },
+  {
+    "id": 44,
+    "category": "Dad Jokes",
+    "setup": "How do you organize a space party?",
+    "punchline": "You *planet*."
+  },
+  {
+    "id": 45,
+    "category": "Dad Jokes",
+    "setup": "Why did the scarecrow win an award?",
+    "punchline": "Because he was *outstanding* in his field!"
+  },
+  {
+    "id": 46,
+    "category": "Dad Jokes",
+    "setup": "What’s brown and sticky?",
+    "punchline": "A stick."
+  },
+  {
+    "id": 47,
+    "category": "Dad Jokes",
+    "setup": "How do you make a tissue dance?",
+    "punchline": "Put a little *boogie* in it."
+  },
+  {
+    "id": 48,
+    "category": "Dad Jokes",
+    "setup": "Why can’t you trust an atom?",
+    "punchline": "Because they *make up everything*."
+  },
+  {
+    "id": 49,
+    "category": "Dad Jokes",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A *gummy* bear."
+  },
+  {
+    "id": 50,
+    "category": "Dad Jokes",
+    "setup": "Why did the math book look sad?",
+    "punchline": "It had too many *problems*."
+  },
+  {
+    "id": 51,
+    "category": "Dad Jokes",
+    "setup": "What’s a tree’s favorite drink?",
+    "punchline": "Root *beer*."
+  },
+  {
+    "id": 52,
+    "category": "Dad Jokes",
+    "setup": "Why did the golfer bring two pairs of pants?",
+    "punchline": "In case he got a *hole in one*."
+  },
+  {
+    "id": 53,
+    "category": "Dad Jokes",
+    "setup": "What do you call a fish wearing a bowtie?",
+    "punchline": "*Sofishticated*."
+  },
+  {
+    "id": 54,
+    "category": "Dad Jokes",
+    "setup": "Why don’t skeletons fight each other?",
+    "punchline": "They don’t have the *guts*."
+  },
+  {
+    "id": 55,
+    "category": "Dad Jokes",
+    "setup": "What did the ocean say to the beach?",
+    "punchline": "Nothing, it just *waved*."
+  },
+  {
+    "id": 56,
+    "category": "Dad Jokes",
+    "setup": "Why did the bicycle fall over?",
+    "punchline": "Because it was *two-tired*."
+  },
+  {
+    "id": 57,
+    "category": "Dad Jokes",
+    "setup": "What do you call cheese that isn’t yours?",
+    "punchline": "*Nacho* cheese!"
+  },
+  {
+    "id": 58,
+    "category": "Dad Jokes",
+    "setup": "Why did the tomato turn red?",
+    "punchline": "Because it saw the salad *dressing*!"
+  },
+  {
+    "id": 59,
+    "category": "Dad Jokes",
+    "setup": "How do you catch a squirrel?",
+    "punchline": "Climb a tree and act like a *nut*."
+  },
+  {
+    "id": 60,
+    "category": "Dad Jokes",
+    "setup": "What do you call a snowman with a six-pack?",
+    "punchline": "An *abdominal* snowman."
+  },
+  {
+    "id": 61,
+    "category": "Puns",
+    "setup": "I told my wife she was drawing her eyebrows too high.",
+    "punchline": "She looked surprised."
+  },
+  {
+    "id": 62,
+    "category": "Puns",
+    "setup": "Why did the scarecrow win an award?",
+    "punchline": "Because he was outstanding in his field!"
+  },
+  {
+    "id": 63,
+    "category": "Puns",
+    "setup": "I'm reading a book about anti-gravity.",
+    "punchline": "It's impossible to put down!"
+  },
+  {
+    "id": 64,
+    "category": "Puns",
+    "setup": "Did you hear about the claustrophobic astronaut?",
+    "punchline": "He just needed a little space."
+  },
+  {
+    "id": 65,
+    "category": "Puns",
+    "setup": "Why don't scientists trust atoms?",
+    "punchline": "Because they make up everything!"
+  },
+  {
+    "id": 66,
+    "category": "Puns",
+    "setup": "I used to be a baker, but I couldn't make enough dough.",
+    "punchline": "So I kneaded a new career."
+  },
+  {
+    "id": 67,
+    "category": "Puns",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta!"
+  },
+  {
+    "id": 68,
+    "category": "Puns",
+    "setup": "How do you organize a space party?",
+    "punchline": "You planet!"
+  },
+  {
+    "id": 69,
+    "category": "Puns",
+    "setup": "Why did the bicycle fall over?",
+    "punchline": "It was two-tired!"
+  },
+  {
+    "id": 70,
+    "category": "Puns",
+    "setup": "What did the grape say when it got stepped on?",
+    "punchline": "Nothing, it just let out a little wine."
+  },
+  {
+    "id": 71,
+    "category": "Puns",
+    "setup": "I'm on a seafood diet.",
+    "punchline": "Every time I see food, I eat it!"
+  },
+  {
+    "id": 72,
+    "category": "Puns",
+    "setup": "Why did the math book look sad?",
+    "punchline": "Because it had too many problems."
+  },
+  {
+    "id": 73,
+    "category": "Puns",
+    "setup": "What's the best time to go to the dentist?",
+    "punchline": "Tooth-hurty!"
+  },
+  {
+    "id": 74,
+    "category": "Puns",
+    "setup": "Why don't eggs tell jokes?",
+    "punchline": "They'd crack each other up!"
+  },
+  {
+    "id": 75,
+    "category": "Puns",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear!"
+  },
+  {
+    "id": 76,
+    "category": "Puns",
+    "setup": "How do you catch a squirrel?",
+    "punchline": "Climb a tree and act like a nut!"
+  },
+  {
+    "id": 77,
+    "category": "Puns",
+    "setup": "What did the buffalo say to his son when he left for college?",
+    "punchline": "Bison."
+  },
+  {
+    "id": 78,
+    "category": "Puns",
+    "setup": "Why can't you explain puns to kleptomaniacs?",
+    "punchline": "They always take things literally."
+  },
+  {
+    "id": 79,
+    "category": "Puns",
+    "setup": "What's orange and sounds like a parrot?",
+    "punchline": "A carrot!"
+  },
+  {
+    "id": 80,
+    "category": "Puns",
+    "setup": "Why did the golfer bring two pairs of pants?",
+    "punchline": "In case he got a hole in one!"
+  },
+  {
+    "id": 81,
+    "category": "School",
+    "setup": "Why was the math book sad?",
+    "punchline": "Because it had too many problems."
+  },
+  {
+    "id": 82,
+    "category": "School",
+    "setup": "Why did the student eat his homework?",
+    "punchline": "Because the teacher said it was a piece of cake!"
+  },
+  {
+    "id": 83,
+    "category": "School",
+    "setup": "Why did the scarecrow become a teacher?",
+    "punchline": "Because he was outstanding in his field!"
+  },
+  {
+    "id": 84,
+    "category": "School",
+    "setup": "What’s a teacher’s favorite nation?",
+    "punchline": "Expla-nation."
+  },
+  {
+    "id": 85,
+    "category": "School",
+    "setup": "Why did the student bring a ladder to school?",
+    "punchline": "Because they wanted to go to high school!"
+  },
+  {
+    "id": 86,
+    "category": "School",
+    "setup": "What’s the king of all school supplies?",
+    "punchline": "The ruler."
+  },
+  {
+    "id": 87,
+    "category": "School",
+    "setup": "Why did the music teacher need a ladder?",
+    "punchline": "To reach the high notes!"
+  },
+  {
+    "id": 88,
+    "category": "School",
+    "setup": "What did the pen say to the pencil?",
+    "punchline": "“You’re looking sharp!”"
+  },
+  {
+    "id": 89,
+    "category": "School",
+    "setup": "Why was the geometry class always tired?",
+    "punchline": "Because they were always out of shape."
+  },
+  {
+    "id": 90,
+    "category": "School",
+    "setup": "What’s a snake’s favorite subject?",
+    "punchline": "Hiss-tory."
+  },
+  {
+    "id": 91,
+    "category": "School",
+    "setup": "Why did the student study in the airplane?",
+    "punchline": "Because they wanted a higher education!"
+  },
+  {
+    "id": 92,
+    "category": "School",
+    "setup": "What do you call a dinosaur with good spelling?",
+    "punchline": "A thesaurus."
+  },
+  {
+    "id": 93,
+    "category": "School",
+    "setup": "Why did the teacher wear sunglasses?",
+    "punchline": "Because her students were so bright!"
+  },
+  {
+    "id": 94,
+    "category": "School",
+    "setup": "What’s a math teacher’s favorite dessert?",
+    "punchline": "Pi-neapple upside-down cake."
+  },
+  {
+    "id": 95,
+    "category": "School",
+    "setup": "Why did the student sit on their clock?",
+    "punchline": "Because they wanted to be on time!"
+  },
+  {
+    "id": 96,
+    "category": "School",
+    "setup": "What’s a ghost’s favorite subject?",
+    "punchline": "Spelling."
+  },
+  {
+    "id": 97,
+    "category": "School",
+    "setup": "Why did the computer go to summer school?",
+    "punchline": "Because it had too many bytes."
+  },
+  {
+    "id": 98,
+    "category": "School",
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer."
+  },
+  {
+    "id": 99,
+    "category": "School",
+    "setup": "Why did the student bring a mirror to school?",
+    "punchline": "Because they wanted to reflect on their work!"
+  },
+  {
+    "id": 100,
+    "category": "School",
+    "setup": "What’s a librarian’s favorite candy?",
+    "punchline": "Bookworms."
+  },
+  {
+    "id": 101,
+    "category": "Relationships",
+    "setup": "Why did the boyfriend bring a ladder to the date?",
+    "punchline": "Because he wanted to take things to the next level!"
+  },
+  {
+    "id": 102,
+    "category": "Relationships",
+    "setup": "What did the grape say to the jealous raisin?",
+    "punchline": "“Stop wine-ing!”"
+  },
+  {
+    "id": 103,
+    "category": "Relationships",
+    "setup": "Why did the couple break up during the math test?",
+    "punchline": "They had too many problems."
+  },
+  {
+    "id": 104,
+    "category": "Relationships",
+    "setup": "Why did the man put his money in the freezer?",
+    "punchline": "He wanted cold hard cash to impress his date."
+  },
+  {
+    "id": 105,
+    "category": "Relationships",
+    "setup": "What’s the most romantic language?",
+    "punchline": "Python… because it’s all about *indentation*."
+  },
+  {
+    "id": 106,
+    "category": "Relationships",
+    "setup": "Why did the girlfriend bring a map to bed?",
+    "punchline": "She heard relationships were all about *navigation*."
+  },
+  {
+    "id": 107,
+    "category": "Relationships",
+    "setup": "What do you call a fake relationship?",
+    "punchline": "A *ship* of fools."
+  },
+  {
+    "id": 108,
+    "category": "Relationships",
+    "setup": "Why did the boyfriend bring a pencil to the date?",
+    "punchline": "In case things got *sketchy*."
+  },
+  {
+    "id": 109,
+    "category": "Relationships",
+    "setup": "What’s a vampire’s least favorite thing about relationships?",
+    "punchline": "Fang-zone violations."
+  },
+  {
+    "id": 110,
+    "category": "Relationships",
+    "setup": "Why did the couple go to therapy after gardening?",
+    "punchline": "They had too many *root* issues."
+  },
+  {
+    "id": 111,
+    "category": "Relationships",
+    "setup": "What did the ocean say to the shore?",
+    "punchline": "Nothing, it just *waved*… but they’re still dating."
+  },
+  {
+    "id": 112,
+    "category": "Relationships",
+    "setup": "Why did the girlfriend hate Scrabble?",
+    "punchline": "Because her partner kept *triple-word scoring* her feelings."
+  },
+  {
+    "id": 113,
+    "category": "Relationships",
+    "setup": "What’s a baker’s love language?",
+    "punchline": "Flour power."
+  },
+  {
+    "id": 114,
+    "category": "Relationships",
+    "setup": "Why did the couple break up at the gym?",
+    "punchline": "They just didn’t *work out*."
+  },
+  {
+    "id": 115,
+    "category": "Relationships",
+    "setup": "What did the boyfriend say to the WiFi?",
+    "punchline": "“I feel a *connection*… but sometimes you’re *unstable*.”"
+  },
+  {
+    "id": 116,
+    "category": "Relationships",
+    "setup": "Why did the skeleton break up with his girlfriend?",
+    "punchline": "She had *no body* to love."
+  },
+  {
+    "id": 117,
+    "category": "Relationships",
+    "setup": "What’s the worst thing about dating a clock?",
+    "punchline": "It’s always *ticking* you off."
+  },
+  {
+    "id": 118,
+    "category": "Relationships",
+    "setup": "Why did the girlfriend hate dating a photographer?",
+    "punchline": "He kept *focusing* on her flaws."
+  },
+  {
+    "id": 119,
+    "category": "Relationships",
+    "setup": "What’s a ghost’s ideal partner?",
+    "punchline": "Someone who *appears* when they need them."
+  },
+  {
+    "id": 120,
+    "category": "Relationships",
+    "setup": "Why did the couple break up at the bakery?",
+    "punchline": "They couldn’t *knead* the relationship anymore."
+  },
+  {
+    "id": 121,
+    "category": "Animals",
+    "setup": "What do you call a fish wearing a bowtie?",
+    "punchline": "Sofishticated."
+  },
+  {
+    "id": 122,
+    "category": "Animals",
+    "setup": "Why don’t sharks eat clowns?",
+    "punchline": "Because they taste funny."
+  },
+  {
+    "id": 123,
+    "category": "Animals",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear!"
+  },
+  {
+    "id": 124,
+    "category": "Animals",
+    "setup": "Why did the cow go to space?",
+    "punchline": "To see the moooon!"
+  },
+  {
+    "id": 125,
+    "category": "Animals",
+    "setup": "What’s a snake’s favorite subject?",
+    "punchline": "Hiss-tory."
+  },
+  {
+    "id": 126,
+    "category": "Animals",
+    "setup": "How do you catch a squirrel?",
+    "punchline": "Climb a tree and act like a nut!"
+  },
+  {
+    "id": 127,
+    "category": "Animals",
+    "setup": "Why did the chicken join a band?",
+    "punchline": "Because it had the drumsticks!"
+  },
+  {
+    "id": 128,
+    "category": "Animals",
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer."
+  },
+  {
+    "id": 129,
+    "category": "Animals",
+    "setup": "Why don’t elephants use computers?",
+    "punchline": "They’re afraid of the mouse!"
+  },
+  {
+    "id": 130,
+    "category": "Animals",
+    "setup": "What’s a frog’s favorite candy?",
+    "punchline": "Lollihops!"
+  },
+  {
+    "id": 131,
+    "category": "Animals",
+    "setup": "Why did the lobster blush?",
+    "punchline": "Because the sea weed!"
+  },
+  {
+    "id": 132,
+    "category": "Animals",
+    "setup": "What do you call a dinosaur with an extensive vocabulary?",
+    "punchline": "A thesaurus."
+  },
+  {
+    "id": 133,
+    "category": "Animals",
+    "setup": "Why did the goat cross the road?",
+    "punchline": "To get to the *udder* side!"
+  },
+  {
+    "id": 134,
+    "category": "Animals",
+    "setup": "What’s a cat’s favorite color?",
+    "punchline": "Purrr-ple."
+  },
+  {
+    "id": 135,
+    "category": "Animals",
+    "setup": "Why don’t owls argue?",
+    "punchline": "They’re too wise."
+  },
+  {
+    "id": 136,
+    "category": "Animals",
+    "setup": "What do you call a dog magician?",
+    "punchline": "A labracadabrador."
+  },
+  {
+    "id": 137,
+    "category": "Animals",
+    "setup": "Why did the duck get a medal?",
+    "punchline": "Because he was *quack* in action!"
+  },
+  {
+    "id": 138,
+    "category": "Animals",
+    "setup": "What’s a rabbit’s favorite type of music?",
+    "punchline": "Hip-hop!"
+  },
+  {
+    "id": 139,
+    "category": "Animals",
+    "setup": "Why did the cow get a job?",
+    "punchline": "To support its *moo*-tgage."
+  },
+  {
+    "id": 140,
+    "category": "Animals",
+    "setup": "What do you call a sheep with no legs?",
+    "punchline": "A cloud."
+  },
+  {
+    "id": 141,
+    "category": "Soccer",
+    "setup": "Why did the soccer player bring string to the game?",
+    "punchline": "So he could tie the score!"
+  },
+  {
+    "id": 142,
+    "category": "Soccer",
+    "setup": "Why was the soccer game so quiet?",
+    "punchline": "Because it was a *header* but no one cheered!"
+  },
+  {
+    "id": 143,
+    "category": "Soccer",
+    "setup": "What’s a soccer player’s favorite kind of music?",
+    "punchline": "*Rock* and roll—especially when they hit the crossbar!"
+  },
+  {
+    "id": 144,
+    "category": "Soccer",
+    "setup": "Why did the goalkeeper bring a ladder to the match?",
+    "punchline": "To reach the *high balls*!"
+  },
+  {
+    "id": 145,
+    "category": "Soccer",
+    "setup": "What do you call a soccer game in the Arctic?",
+    "punchline": "A *snow* match!"
+  },
+  {
+    "id": 146,
+    "category": "Soccer",
+    "setup": "Why did the referee give the soccer ball a red card?",
+    "punchline": "Because it kept *rolling* around!"
+  },
+  {
+    "id": 147,
+    "category": "Soccer",
+    "setup": "What’s a vampire’s favorite soccer position?",
+    "punchline": "The *striker*—he loves a good *blood* rush!"
+  },
+  {
+    "id": 148,
+    "category": "Soccer",
+    "setup": "Why did the soccer player eat the goalpost?",
+    "punchline": "Because he was *starving* for a goal!"
+  },
+  {
+    "id": 149,
+    "category": "Soccer",
+    "setup": "What do you call a soccer player who never scores?",
+    "punchline": "A *defender* of boredom!"
+  },
+  {
+    "id": 150,
+    "category": "Soccer",
+    "setup": "Why did the soccer ball go to therapy?",
+    "punchline": "It had too much *pressure*!"
+  },
+  {
+    "id": 151,
+    "category": "Soccer",
+    "setup": "What’s a ghost’s favorite soccer move?",
+    "punchline": "The *boo*-ty kick!"
+  },
+  {
+    "id": 152,
+    "category": "Soccer",
+    "setup": "Why did the soccer team bring a pencil to the game?",
+    "punchline": "To *draw* the match!"
+  },
+  {
+    "id": 153,
+    "category": "Soccer",
+    "setup": "What do you call a soccer game between trees?",
+    "punchline": "A *root* match!"
+  },
+  {
+    "id": 154,
+    "category": "Soccer",
+    "setup": "Why did the soccer player get kicked out of the bakery?",
+    "punchline": "He kept *kneading* the dough like a ball!"
+  },
+  {
+    "id": 155,
+    "category": "Soccer",
+    "setup": "What’s a soccer player’s favorite type of shoe?",
+    "punchline": "*Cleats*—because they’re always *tied* to the game!"
+  },
+  {
+    "id": 156,
+    "category": "Soccer",
+    "setup": "Why did the soccer ball break up with the net?",
+    "punchline": "It felt *trapped* in the relationship!"
+  },
+  {
+    "id": 157,
+    "category": "Soccer",
+    "setup": "What do you call a soccer match in a library?",
+    "punchline": "A *quiet* game—shhh, no *foul* language!"
+  },
+  {
+    "id": 158,
+    "category": "Soccer",
+    "setup": "Why did the soccer player bring a fork to the game?",
+    "punchline": "To *pass* the salad—wait, wrong sport!"
+  },
+  {
+    "id": 159,
+    "category": "Soccer",
+    "setup": "What’s a soccer player’s least favorite chore?",
+    "punchline": "*Dribbling* the mop—it’s too much like work!"
+  },
+  {
+    "id": 160,
+    "category": "Soccer",
+    "setup": "Why did the soccer ball get promoted?",
+    "punchline": "Because it was always *on the ball*!"
+  },
+  {
+    "id": 161,
+    "category": "Random",
+    "setup": "What do you call a fish with no eyes?",
+    "punchline": "Fsh."
+  },
+  {
+    "id": 162,
+    "category": "Random",
+    "setup": "Why did the invisible man turn down the job offer?",
+    "punchline": "He couldn’t see himself doing it."
+  },
+  {
+    "id": 163,
+    "category": "Random",
+    "setup": "What’s brown and sounds like a bell?",
+    "punchline": "Dung."
+  },
+  {
+    "id": 164,
+    "category": "Random",
+    "setup": "How do you make a tissue dance?",
+    "punchline": "Put a little boogie in it!"
+  },
+  {
+    "id": 165,
+    "category": "Random",
+    "setup": "What did the left eye say to the right eye?",
+    "punchline": "“Between you and me, something smells.”"
+  },
+  {
+    "id": 166,
+    "category": "Random",
+    "setup": "Why did the golfer bring two pairs of pants?",
+    "punchline": "In case he got a hole in one!"
+  },
+  {
+    "id": 167,
+    "category": "Random",
+    "setup": "What do you call a snowman with a six-pack?",
+    "punchline": "An abdominal snowman."
+  },
+  {
+    "id": 168,
+    "category": "Random",
+    "setup": "Why did the math book look sad?",
+    "punchline": "Because it had too many problems."
+  },
+  {
+    "id": 169,
+    "category": "Random",
+    "setup": "What’s orange and sounds like a parrot?",
+    "punchline": "A carrot."
+  },
+  {
+    "id": 170,
+    "category": "Random",
+    "setup": "Why don’t scientists trust atoms?",
+    "punchline": "Because they make up everything!"
+  },
+  {
+    "id": 171,
+    "category": "Random",
+    "setup": "What did the buffalo say to his son when he left for college?",
+    "punchline": "Bison."
+  },
+  {
+    "id": 172,
+    "category": "Random",
+    "setup": "Why did the scarecrow win an award?",
+    "punchline": "Because he was outstanding in his field!"
+  },
+  {
+    "id": 173,
+    "category": "Random",
+    "setup": "What do you call a fake noodle?",
+    "punchline": "An impasta!"
+  },
+  {
+    "id": 174,
+    "category": "Random",
+    "setup": "Why did the bicycle fall over?",
+    "punchline": "Because it was two-tired!"
+  },
+  {
+    "id": 175,
+    "category": "Random",
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear!"
+  },
+  {
+    "id": 176,
+    "category": "Random",
+    "setup": "Why can’t you explain puns to kleptomaniacs?",
+    "punchline": "They always take things literally."
+  },
+  {
+    "id": 177,
+    "category": "Random",
+    "setup": "What’s the best time to go to the dentist?",
+    "punchline": "Tooth-hurty!"
+  },
+  {
+    "id": 178,
+    "category": "Random",
+    "setup": "Why did the tomato turn red?",
+    "punchline": "Because it saw the salad dressing!"
+  },
+  {
+    "id": 179,
+    "category": "Random",
+    "setup": "What do you call cheese that isn’t yours?",
+    "punchline": "Nacho cheese!"
+  },
+  {
+    "id": 180,
+    "category": "Random",
+    "setup": "Why don’t eggs tell jokes?",
+    "punchline": "They’d crack each other up!"
+  },
+  {
+    "id": 181,
+    "category": "Nigerian",
+    "setup": "Why did the Nigerian man bring a ladder to the bank?",
+    "punchline": "Because he heard money was *on the rise*!"
+  },
+  {
+    "id": 182,
+    "category": "Nigerian",
+    "setup": "What’s Nigeria’s fastest means of transportation?",
+    "punchline": "Gossip—before you finish hearing it, it’s already in another state!"
+  },
+  {
+    "id": 183,
+    "category": "Nigerian",
+    "setup": "Why did the Lagosian refuse to run during a fire drill?",
+    "punchline": "“Wetin? You think I fit waste my data on *emergency*?”"
+  },
+  {
+    "id": 184,
+    "category": "Nigerian",
+    "setup": "What do you call a Nigerian who doesn’t like jollof rice?",
+    "punchline": "A *suspect*."
+  },
+  {
+    "id": 185,
+    "category": "Nigerian",
+    "setup": "Why did the Nigerian student bring a torch to the exam hall?",
+    "punchline": "To *shine his eyes*!"
+  },
+  {
+    "id": 186,
+    "category": "Nigerian",
+    "setup": "What’s the difference between a Nigerian prophet and a weather forecast?",
+    "punchline": "One says *“it shall rain”*, the other says *“maybe”*."
+  },
+  {
+    "id": 187,
+    "category": "Nigerian",
+    "setup": "Why did the Nigerian bricklayer quit his job?",
+    "punchline": "Too many *blocks* on his way—Twitter, Instagram, WhatsApp…"
+  },
+  {
+    "id": 188,
+    "category": "Nigerian",
+    "setup": "What’s a Nigerian’s favorite exercise?",
+    "punchline": "Dodging potholes on Lagos roads."
+  },
+  {
+    "id": 189,
+    "category": "Nigerian",
+    "setup": "Why did the Nigerian couple break up during NEPA light?",
+    "punchline": "They couldn’t *see* their future together."
+  },
+  {
+    "id": 190,
+    "category": "Nigerian",
+    "setup": "What do you call a Nigerian who hates pepper?",
+    "punchline": "A *white man* in disguise."
+  },
+  {
+    "id": 191,
+    "category": "Nigerian",
+    "setup": "Why did the Yahoo boy start a bakery?",
+    "punchline": "To make *clean money*—at least that’s what he told EFCC."
+  },
+  {
+    "id": 192,
+    "category": "Nigerian",
+    "setup": "What’s the most popular Nigerian magic trick?",
+    "punchline": "Turning *“next week”* into *“never”*."
+  },
+  {
+    "id": 193,
+    "category": "Nigerian",
+    "setup": "Why did the Nigerian man wear two pairs of trousers to the wedding?",
+    "punchline": "Because they said *“the ceremony is by 2”*!"
+  },
+  {
+    "id": 194,
+    "category": "Nigerian",
+    "setup": "What’s a Nigerian’s favorite love language?",
+    "punchline": "*“Send me your account number.”*"
+  },
+  {
+    "id": 195,
+    "category": "Nigerian",
+    "setup": "Why don’t Nigerian witches use brooms anymore?",
+    "punchline": "Fuel subsidy removed—even spirits are cutting costs."
+  },
+  {
+    "id": 196,
+    "category": "Nigerian",
+    "setup": "What’s the difference between a Nigerian job interview and a Nollywood movie?",
+    "punchline": "One is full of *scripts*, the other is full of *“we’ll call you”*."
+  },
+  {
+    "id": 197,
+    "category": "Nigerian",
+    "setup": "Why did the Nigerian man propose during a blackout?",
+    "punchline": "So she couldn’t *see* the ring clearly."
+  },
+  {
+    "id": 198,
+    "category": "Nigerian",
+    "setup": "What’s a Nigerian’s definition of a long-distance relationship?",
+    "punchline": "Lagos to Ajah."
+  },
+  {
+    "id": 199,
+    "category": "Nigerian",
+    "setup": "Why did the Nigerian pastor carry an umbrella to church?",
+    "punchline": "Because he was about to *rain fire*!"
+  },
+  {
+    "id": 200,
+    "category": "Nigerian",
+    "setup": "What do you call a Nigerian who doesn’t know how to ‘shaku shaku’?",
+    "punchline": "A *colonial man*."
+  },
+  {
+    "id": 201,
+    "category": "Covenant",
+    "setup": "Guess who's in a relationship?",
+    "punchline": "not you"
+  },
+  {
+    "id": 202,
+    "category": "Covenant",
+    "setup": "Guess who's in a relationship?",
+    "punchline": "not you"
+  }
+]
