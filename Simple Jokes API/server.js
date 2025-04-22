@@ -1,7 +1,9 @@
 const fs = require("fs");
 const fsp = require("fs").promises;
 const path = require("path");
+const cors = require("cors");
 const express = require("express");
+
 const app = express();
 const port = 4043;
 
@@ -9,6 +11,9 @@ const dataFile = path.join(__dirname, "jokes.json");
 
 // Body parser middleware
 app.use(express.json());
+
+// Cors middleware
+app.use(cors());
 
 // To read the jokes from the json file
 let jokes = [];
@@ -136,7 +141,15 @@ app.put("/jokes/:id", (req, res) => {
   const otherJokes = jokes.filter((joke) => joke.id != id);
   jokes = [...otherJokes, ...filteredJoke];
   jokes = jokes.sort((a, b) => (a.id > b.id ? 1 : a.id < b.id ? -1 : 0));
-  res.json(filteredJoke);
+
+  fs.writeFile(dataFile, JSON.stringify(jokes, null, 2), (err) => {
+    if (err) {
+      return res.status(500).json({ message: "Failed to edit joke." });
+    }
+    res
+      .status(201)
+      .json({ message: "Joke edited successfully!", filteredJoke });
+  });
 });
 
 // This removes/deletes a joke
@@ -152,11 +165,9 @@ app.delete("/jokes/:id", (req, res) => {
 
   jokes = jokes.filter((joke) => joke.id != id);
   jokes = jokes.sort((a, b) => (a.id > b.id ? 1 : a.id < b.id ? -1 : 0));
-  res
-    .status(200)
-    .json({
-      message: `The Joke with the id '${id} has been deleted successfully`,
-    });
+  res.status(200).json({
+    message: `The Joke with the id '${id} has been deleted successfully`,
+  });
 });
 
 // Hosts the app on a port temporarily

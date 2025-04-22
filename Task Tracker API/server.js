@@ -1,6 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const express = require("express");
+const cors = require("cors");
 const app = express();
 const port = 2323;
 
@@ -8,6 +9,9 @@ const dataFile = path.join(__dirname, "tasks.json");
 
 // Body parser middleware
 app.use(express.json());
+
+// CORS middleware
+app.use(cors());
 
 // To read the tasks from the json file
 let tasks = [];

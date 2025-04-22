@@ -1,5 +1,5 @@
 {
-  "name": "simple-jokes-api",
+  "name": "notes-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
-    "simple-jokes-api": "file:"
+    "notes-api": "file:"
   }
 }
