@@ -1,0 +1,182 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "choice": ["Paris", "London", "Berlin", "Madrid"],
+      "opt1": "Paris",
+      "opt2": "London",
+      "opt3": "Berlin",
+      "opt4": "Madrid",
+      "answer": "Paris"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "choice": ["Earth", "Saturn", "Jupiter", "Mars"],
+      "opt1": "Earth",
+      "opt2": "Saturn",
+      "opt3": "Jupiter",
+      "opt4": "Mars",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which language is primarily used for Android development?",
+      "choice": ["Swift", "Java", "Python", "C#"],
+      "opt1": "Swift",
+      "opt2": "Java",
+      "opt3": "Python",
+      "opt4": "C#",
+      "answer": "Java"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "choice": ["William Shakespeare", "Jane Austen", "Mark Twain", "Leo Tolstoy"],
+      "opt1": "William Shakespeare",
+      "opt2": "Jane Austen",
+      "opt3": "Mark Twain",
+      "opt4": "Leo Tolstoy",
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the chemical symbol for Gold?",
+      "choice": ["Gd", "Go", "Au", "Ag"],
+      "opt1": "Gd",
+      "opt2": "Go",
+      "opt3": "Au",
+      "opt4": "Ag",
+      "answer": "Au"
+    },
+    {
+      "question": "Which organ pumps blood throughout the human body?",
+      "choice": ["Lungs", "Liver", "Heart", "Kidneys"],
+      "opt1": "Lungs",
+      "opt2": "Liver",
+      "opt3": "Heart",
+      "opt4": "Kidneys",
+      "answer": "Heart"
+    },
+    {
+      "question": "Which programming language runs in a web browser?",
+      "choice": ["C++", "Java", "Python", "JavaScript"],
+      "opt1": "C++",
+      "opt2": "Java",
+      "opt3": "Python",
+      "opt4": "JavaScript",
+      "answer": "JavaScript"
+    },
+    {
+      "question": "Which continent is the Sahara Desert located in?",
+      "choice": ["Asia", "Africa", "Australia", "Europe"],
+      "opt1": "Asia",
+      "opt2": "Africa",
+      "opt3": "Australia",
+      "opt4": "Europe",
+      "answer": "Africa"
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "choice": ["100°C", "0°C", "50°C", "212°C"],
+      "opt1": "100°C",
+      "opt2": "0°C",
+      "opt3": "50°C",
+      "opt4": "212°C",
+      "answer": "100°C"
+    },
+    {
+      "question": "Which country hosted the 2022 FIFA World Cup?",
+      "choice": ["Russia", "Qatar", "Brazil", "Germany"],
+      "opt1": "Russia",
+      "opt2": "Qatar",
+      "opt3": "Brazil",
+      "opt4": "Germany",
+      "answer": "Qatar"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "choice": ["Earth", "Mars", "Venus", "Neptune"],
+      "opt1": "Earth",
+      "opt2": "Mars",
+      "opt3": "Venus",
+      "opt4": "Neptune",
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "choice": ["0", "1", "2", "3"],
+      "opt1": "0",
+      "opt2": "1",
+      "opt3": "2",
+      "opt4": "3",
+      "answer": "2"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "choice": ["Helium", "Oxygen", "Hydrogen", "Nitrogen"],
+      "opt1": "Helium",
+      "opt2": "Oxygen",
+      "opt3": "Hydrogen",
+      "opt4": "Nitrogen",
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "What currency is used in Japan?",
+      "choice": ["Dollar", "Yuan", "Won", "Yen"],
+      "opt1": "Dollar",
+      "opt2": "Yuan",
+      "opt3": "Won",
+      "opt4": "Yen",
+      "answer": "Yen"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "choice": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+      "opt1": "Vincent van Gogh",
+      "opt2": "Leonardo da Vinci",
+      "opt3": "Pablo Picasso",
+      "opt4": "Michelangelo",
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "choice": ["6", "8", "10", "7"],
+      "opt1": "6",
+      "opt2": "8",
+      "opt3": "10",
+      "opt4": "7",
+      "answer": "8"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "choice": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+      "opt1": "Oxygen",
+      "opt2": "Hydrogen",
+      "opt3": "Carbon Dioxide",
+      "opt4": "Nitrogen",
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "choice": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "opt1": "Atlantic Ocean",
+      "opt2": "Indian Ocean",
+      "opt3": "Arctic Ocean",
+      "opt4": "Pacific Ocean",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Which device is used to measure temperature?",
+      "choice": ["Barometer", "Thermometer", "Hygrometer", "Altimeter"],
+      "opt1": "Barometer",
+      "opt2": "Thermometer",
+      "opt3": "Hygrometer",
+      "opt4": "Altimeter",
+      "answer": "Thermometer"
+    },
+    {
+      "question": "What is 15 multiplied by 3?",
+      "choice": ["45", "35", "40", "50"],
+      "opt1": "45",
+      "opt2": "35",
+      "opt3": "40",
+      "opt4": "50",
+      "answer": "45"
+    }
+]

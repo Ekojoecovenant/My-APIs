@@ -73,3 +73,39 @@ async function deleteNote(id) {
     alert("Could not delete note.");
   }
 }
+
+// REGISTER
+document.getElementById("registerBtn").addEventListener("click", async () => {
+  const username = document.getElementById("regUsername").value;
+  const email = document.getElementById("regEmail").value;
+  const password = document.getElementById("regPassword").value;
+
+  const response = await fetch(LIVE_URL, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ username, email, password }),
+  });
+
+  const data = await response.json();
+  alert(data.message);
+});
+
+// LOGIN
+document.getElementById("loginBtn").addEventListener("click", async () => {
+  const email = document.getElementById("loginEmail").value;
+  const password = document.getElementById("loginPassword").value;
+
+  const response = await fetch(LIVE_URL, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ email, password }),
+  });
+
+  const data = await response.json();
+  if (data.token) {
+    localStorage.setItem("token", data.token);
+    window.location.href = "index.html"; // or whatever your main app page is
+  } else {
+    alert(data.message);
+  }
+});

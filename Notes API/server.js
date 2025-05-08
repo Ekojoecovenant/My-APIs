@@ -30,7 +30,13 @@ async function loadNotes() {
 
 loadNotes(); // load notes on server start
 
-/* ``` Routes here... ```*/
+/* ``` External Routes here... ``` */
+
+// register and login AUTH routes
+const authRoutes = require("./authRoutes");
+app.use("/auth", authRoutes);
+
+/* ``` Internal Routes here... ```*/
 
 // to view all notes
 app.get("/notes", (req, res) => {
